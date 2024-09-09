@@ -2,6 +2,7 @@
 
 - 💬 Ask me about Python & Cybersecurity
 - 🌍 Germany
+- 📺 Youtube Channel: https://www.youtube.com/@easypy/videos
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivid42&label=Profile%20views&color=0e75b6&style=flat" alt="nivid42" /> </p>
 
