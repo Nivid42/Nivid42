@@ -1,8 +1,5 @@
 <h1 align="center">Welcome on my Profile <img src="https://flyff-wiki.gpotato.com.br/images/5/58/Cat_face.gif" alt="Cat Face"> </h1> 
 
-
-  
-- 🌱 I’m currently improving my Skills in Reverse Engineering, Game Manipulation
 - 💬 Ask me about Python & Cybersecurity
 - 📫 How to reach me: 
 - 🌍 Germany
