@@ -7,11 +7,12 @@
 
 ## 💉 Skills 💉
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Core**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Technologys &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |  **Misc**
-:-----------------:|:------------------------------------:|:----------------:|--------------------
-![Programming](https://img.shields.io/badge/Programming-OK-orange) | ![Python](https://img.shields.io/badge/Python-Expert-brightgreen) |  | ![Speaking](https://img.shields.io/badge/Speaking-Expert-brightgreen) 
-![Patience](https://img.shields.io/badge/Patience-Tireless-brightgreen) | ![C++](https://img.shields.io/badge/C++-Good-orange) | - Skill 1
-![SearchExpert](https://img.shields.io/badge/Searching-Good-brightgreen) | ![other](https://img.shields.io/badge/Others_mentioned-Ok-yellow)  | - Skill 2 | | - Skill 3
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Core**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Technologys**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **Misc**
+:-----------------:|:------------------------------------:|:----------------:|:----------------:  
+![Programming](https://img.shields.io/badge/Programming-OK-orange) | ![Python](https://img.shields.io/badge/Python-Expert-brightgreen) | ![Git](https://img.shields.io/badge/Git-Good-orange) | ![Speaking](https://img.shields.io/badge/Speaking-Expert-brightgreen)  
+![Patience](https://img.shields.io/badge/Patience-Tireless-brightgreen) | ![C++](https://img.shields.io/badge/C++-Good-orange) | | ![CyberSec](https://img.shields.io/badge/Cyber_Security-Good-orange)  
+![SearchExpert](https://img.shields.io/badge/Searching-Good-brightgreen) | ![Others](https://img.shields.io/badge/Others_mentioned-Ok-yellow) | | ![ReverseEngineering](https://img.shields.io/badge/Reverse_Engineering-Ok-yellow)  
+
 
 
 <h2 align="left">💻 Programming/Markup Languages 💻</h2>
