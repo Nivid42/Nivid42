@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Core**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Technologys**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **Misc**
 :-----------------:|:------------------------------------:|:----------------:|:----------------:  
-![Programming](https://img.shields.io/badge/Programming-OK-orange) | ![Python](https://img.shields.io/badge/Python-Expert-brightgreen) | ![Git](https://img.shields.io/badge/Git-Good-orange) | ![Speaking](https://img.shields.io/badge/Speaking-Good-brightgreen)  
+![Programming](https://img.shields.io/badge/Programming-OK-orange) | ![Python](https://img.shields.io/badge/Python-Good-brightgreen) | ![Git](https://img.shields.io/badge/Git-Good-orange) | ![Speaking](https://img.shields.io/badge/Speaking-Good-brightgreen)  
 ![Patience](https://img.shields.io/badge/Patience-Tireless-brightgreen) | ![C++](https://img.shields.io/badge/C++-Good-orange) | | ![CyberSec](https://img.shields.io/badge/Cyber_Security-Good-orange)  
 ![SearchGood](https://img.shields.io/badge/Searching-Good-brightgreen) | ![Others](https://img.shields.io/badge/Others_mentioned-Ok-yellow) | | ![ReverseEngineering](https://img.shields.io/badge/Reverse_Engineering-Ok-yellow)  
 
