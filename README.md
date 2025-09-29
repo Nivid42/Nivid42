@@ -20,7 +20,7 @@
 <h2 align="left">💻 Programming/Markup Languages 💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,cs,php,mysql,html,css,md" /> <br>
+    <img src="https://skillicons.dev/icons?i=py,cpp,cs,php,mysql,html,css,tailwind,md" /> <br>
   </a>
   <small>* Descending by Skill lvl</small>
 </p>
@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git" />
+    <img src="https://skillicons.dev/icons?i=github,git,jira" />
   </a>
 </p>
 
