@@ -1,13 +1,13 @@
 <h1 align="center">Welcome on my Profile <img src="https://flyff-wiki.gpotato.com.br/images/5/58/Cat_face.gif" alt="Cat Face"> </h1> 
 
-- 💬 Ask me about Python & Cybersecurity
-- 🌍 Germany
-- 📺 Youtube Channel: https://www.youtube.com/@easypy/videos
+-  Ask me about Python & Cybersecurity
+-  Germany
+-  Youtube Channel: https://www.youtube.com/@easypy/videos
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivid42&label=Profile%20views&color=0e75b6&style=flat" alt="nivid42" /> </p>
 
 
-## 🛠️ Skills 🛠️
+##  Skills 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Core**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Technologys**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **Misc**
 :-----------------:|:------------------------------------:|:----------------:|:----------------:  
@@ -25,7 +25,7 @@
   <small>* Descending by Skill lvl</small>
 </p>
 
-<h2 align="left">🧰 Tools/Frameworks 🧰</h2>
+<h2 align="left"> Tools/Frameworks </h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h2 align="left">🖥️ Operating Systems 🖥️</h2>
+<h2 align="left"> Operating Systems </h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
