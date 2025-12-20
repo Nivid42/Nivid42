@@ -17,7 +17,7 @@
 
 
 
-<h2 align="left">💻 Programming/Markup Languages 💻</h2>
+<h2 align="left"> Programming/Markup Languages </h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,php,cpp,cs,tailwind,mysql,html,css,md" /> <br>
@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<h2>💉 Pentesting stats 💉</h2>
+<h2> Pentesting stats </h2>
  <img src="https://tryhackme-badges.s3.amazonaws.com/0x10100111001.png" alt="TryHackMe">
 
 
