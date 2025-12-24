@@ -41,9 +41,6 @@
   </a>
 </p>
 
-<h2> Pentesting stats </h2>
- <img src="https://tryhackme-badges.s3.amazonaws.com/0x10100111001.png" alt="TryHackMe">
-
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;">
